@@ -146,14 +146,14 @@ Known Issues
 ------------
 
 - non-zero winding not implemented yet (use "evenodd" fill mode to compare for now)
+- No text methods implemented at the moment
+- No line-formatting implemented (join, cap, width etc.)
 - In need of a ton of optimizations for image dithering, polygon fill etc.
 - Not all features are documented yet. Refer to regular [2D context documentation](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) as well as the included Quick Setup (see docs) for general usage.
 
 
 Issues
 ------
-
-See the [issue tracker](https://github.com/epistemex/8-bit/issues) for details.
 
 It's currently in alpha so please be patient.
 
