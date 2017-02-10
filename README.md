@@ -146,14 +146,14 @@ interchangeable with ordinary 2D equivalent objects.
 There are others as well but they are marked as private.
 
 
-Known Issues
-------------
+Known Issues left as-is
+-----------------------
 
-- non-zero winding not implemented yet (use "evenodd" fill mode to compare for now)
-- No text methods implemented at the moment
+- Non-zero winding not implemented (use "evenodd" fill mode)
+- No text methods implemented
 - No line-formatting implemented (join, cap, width etc.)
 - In need of a ton of optimizations for image dithering, polygon fill etc.
-- Not all features are documented yet. Refer to regular [2D context documentation](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) as well as the included Quick Setup (see docs) for general usage.
+- Not all features are documented. Refer to regular [2D context documentation](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) as well as the included Quick Setup (see docs) for general usage.
 
 
 License

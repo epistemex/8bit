@@ -1,13 +1,14 @@
 /*!
-	8-bit ver 0.4.2 alpha
-	(c) 2013-2016 Epistemex
+	8-bit ver 0.4.3 alpha
+	(c) 2013-2017 Epistemex
 	www.epistemex.com
-	Copyrighted. Preview version! No license given at this point.
+
+	Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 */
 
 /**
  * @name 8-bit Context for HTML5 Canvas.
- * @copyright Copyright &copy; 2013-2016 Epistemex
+ * @copyright Copyright &copy; 2013-2017 Epistemex
  * @license TBA
  */
 

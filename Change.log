@@ -1,6 +1,9 @@
 Change log for 8-bit
 --------------------
 
+0.4.3
+OFFICIALLY FROZEN - no further updates. Version bumped to allow bower, npm updates.
+
 0.4.2
 FIX: save/restore object reference error with the matrix
 
@@ -29,4 +32,4 @@ MSC: To allow NPM update...
 NEW: Initial release
 
 
-(c) 2013-2016 Epistemex
+(c) 2013-2017 Epistemex
