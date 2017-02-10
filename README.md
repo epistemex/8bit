@@ -1,7 +1,9 @@
 ﻿8-bit
 =====
 
-##(ALPHA)
+**This project is frozen and won't be develop further, considering its experimental nature and level of interest. It's kept here for reference. Feel free fork if you want to continue the project.**
+
+**Also see license information at the bottom of this page.**
 
 8-bit inspired HTML5 Canvas that allow you to draw palette based, non-aliased graphics.
 
@@ -152,20 +154,12 @@ Known Issues
 - Not all features are documented yet. Refer to regular [2D context documentation](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) as well as the included Quick Setup (see docs) for general usage.
 
 
-Issues
-------
-
-It's currently in alpha so please be patient.
-
-
 License
 -------
 
-More information will come later. Consider this a preview repository for 
-the moment. Copyright reserved. Contact us directly (github@epistemex.com)
-with questions about licensing and usage.
+![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)<br>This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-*&copy; Epistemex 2013-2016*
+*&copy; Epistemex 2013-2017*
  
 ![Epistemex](http://i.imgur.com/wZSsyt8.png)
