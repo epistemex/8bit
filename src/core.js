@@ -314,13 +314,13 @@ function _8bit(canvas, options) {
 	------------------------------------------------------------------*/
 
 	this.resetClip = function() {
-		if (!notStrict()) {
+		if (notStrict()) {
 			// todo resetClip()
 		}
 	};
 
 	this.createConicalGradient = function(cx, cy, rot) {
-		if (!notStrict()) {
+		if (notStrict()) {
 			// todo createConicalGradient()
 		}
 	};
