@@ -1,9 +1,11 @@
-﻿8-bit
+8-bit
 =====
 
-**This project is frozen and won't be develop further, considering its experimental nature and level of interest. It's kept here for reference. Feel free fork if you want to continue the project.**
+**This project is frozen and won't be develop further, considering its experimental nature and level of interest. It's kept here for reference. Feel free to fork it if you want to continue the project.**
 
 **Also see license information at the bottom of this page.**
+
+---
 
 8-bit inspired HTML5 Canvas that allow you to draw palette based, non-aliased graphics.
 
