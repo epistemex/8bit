@@ -80,7 +80,7 @@ too much considering it's using JavaScript to process the data at multiple
 stages. But never say never.. it can run simpler things pretty well due to
 the low resolution implied.
 
-We'll keep on experimenting and see what we can squeeze out of it.
+<del>We'll keep on experimenting and see what we can squeeze out of it.</del>
 
 
 Install
