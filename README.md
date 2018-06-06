@@ -44,11 +44,11 @@ Includes polyfills for regular 2D context to enable support for ellipse() etc.
 
 **Random image loaded and drawn**:
 
-![http://i.imgur.com/msrnmzw.png](http://i.imgur.com/msrnmzw.png)
+![https://i.imgur.com/msrnmzw.png](https://i.imgur.com/msrnmzw.png)
 
 **Some test shapes to check even-odd fill mode composited on top**:
 
-![http://i.imgur.com/uyuWAqc.png](http://i.imgur.com/uyuWAqc.png)
+![https://i.imgur.com/uyuWAqc.png](https://i.imgur.com/uyuWAqc.png)
 
 
 Brief History
@@ -88,12 +88,8 @@ Install
 
 **8-bit** can be installed in various ways:
 
-- Bower: `bower install 8-bit`
-- NPM: `npm install -g 8-bit`
-- Git using HTTPS: `git clone https://github.com/epistemex/8-bit.git`
-- Git using SSH: `git clone git@github.com:epistemex/8-bit.git`
-- Download [zip archive](https://github.com/epistemex/8-bit/archive/master.zip) and extract.
-- [8-bit.min.js](https://raw.githubusercontent.com/epistemex/8-bit/master/8-bit.min.js)
+- Git using HTTPS: `git clone https://gitlab.com/epistemex/8-bit.git`
+- Git using SSH: `git clone git@gitlab.com:epistemex/8-bit.git`
 
 No tape-loader, sorry!
 
@@ -164,4 +160,4 @@ License
 
 *&copy; Epistemex 2013-2017*
  
-![Epistemex](http://i.imgur.com/wZSsyt8.png)
+![Epistemex](https://i.imgur.com/wZSsyt8.png)
