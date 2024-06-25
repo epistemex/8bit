@@ -69,7 +69,7 @@ It got rebuilt from scratch as a weekend-project with new strategies involved
 such as using existing composition mechanisms to enhance capabilities and
 performance. 
 
-It's still an experiment though and currently it has only implemented the needed
+It's still an experiment though, and currently it has only implemented the needed
 internal pieces without any particular optimizations. Depending on the interest 
 the project may get allocated more resources and time to grow into something
 useful for perhaps games etc. but its main purpose is for it to be used
@@ -77,19 +77,16 @@ as a building block in generating tools that can easily generate 8-bit
 graphics. Or at least, that is what it's most realistically capable of at
 the moment as running full games with lots of action is probably gonna be 
 too much considering it's using JavaScript to process the data at multiple
-stages. But never say never.. it can run simpler things pretty well due to
+stages. But never say never... it can run simpler things pretty well due to
 the low resolution implied.
-
-<del>We'll keep on experimenting and see what we can squeeze out of it.</del>
-
 
 Install
 -------
 
-**8-bit** can be installed in various ways:
+**8bit** can be installed in various ways:
 
-- Git using HTTPS: `git clone https://gitlab.com/epistemex/8-bit.git`
-- Git using SSH: `git clone git@gitlab.com:epistemex/8-bit.git`
+- Git using HTTPS: `git clone https://github.com/epistemex/8bit.git`
+- Git using SSH: `git clone git@github.com:epistemex/8bit.git`
 
 No tape-loader, sorry!
 
