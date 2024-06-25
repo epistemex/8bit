@@ -114,7 +114,7 @@ More info coming later - star and follow to keep yourself updated!
 Notes
 -----
 
-Although the calls are identical as to the ordinary 2D context, it do come
+Although the calls are identical as to the ordinary 2D context, it does come
 with some constraints due to either performance or other reasons such as
 need for access to internal workings. For these reasons the following
 object works only with the 8-bit context:
@@ -125,7 +125,7 @@ object works only with the 8-bit context:
 - _8bit.Pattern
 - _8bit.Gradient
 
-You *can* use regular images (and video etc.) with the drawImage() method
+You *can* use regular images (and video etc.) with the drawImage() method,
 but it will require the image source to be dithered on the fly which takes
 a higher performance-hit than using the _8bit.Image instance.
 
@@ -139,7 +139,7 @@ interchangeable with ordinary 2D equivalent objects.
 - _8bit.Path2D
 - _8bit.Matrix
 
-There are others as well but they are marked as private.
+There are others as well, but they are marked as private.
 
 
 Known Issues left as-is
@@ -158,6 +158,6 @@ License
 ![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)<br>This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-*&copy; Epistemex 2013-2017*
+*&copy; Epistemex 2013-2017, 2024*
  
 ![Epistemex](https://i.imgur.com/wZSsyt8.png)
